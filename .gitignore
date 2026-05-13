@@ -1,2 +1,4 @@
 hackathon_archive.ipynb
 *.md
+__pycache__/
+*.py[cod]
